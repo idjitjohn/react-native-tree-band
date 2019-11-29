@@ -1,0 +1,31 @@
+{
+  "name": "react-native-tree-band",
+  "version": "1.0.4",
+  "description": "TreeView and DoubleChoce for react-native for tree structured data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idjitjohn/react-native-tree-band.git"
+  },
+  "keywords": [
+    "TreeView",
+    "band",
+    "tree",
+    "structure",
+    "data",
+    "react-native",
+    "tree-data",
+    "browser",
+    "file",
+    "browser"
+  ],
+  "author": "Marson Lj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idjitjohn/react-native-tree-band/issues"
+  },
+  "homepage": "https://github.com/idjitjohn/react-native-tree-band#readme"
+}
